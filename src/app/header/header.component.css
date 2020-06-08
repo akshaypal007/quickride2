@@ -1,0 +1,35 @@
+#logo{
+    width: 40px;
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#searchbox{
+    border-radius: 20px;
+}
+
+.nav>li{
+    padding-top: 10px;
+    margin-left: 110px;
+}
+
+#navbar{
+    -webkit-transition:font-size 0.2s ,color 0.2s;
+	transition:font-size 0.2s ,color 0.2s;
+}
+#navbar:hover
+{
+	border-bottom: 3px solid blue;
+}
+
+#navbar_right{
+    margin-right: 100px;
+    -webkit-transition:font-size 0.2s ,color 0.2s;
+	transition:font-size 0.2s ,color 0.2s;
+}
+#navbar_right:hover
+{
+	border-bottom: 3px solid blue;
+}
+

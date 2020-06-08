@@ -1,0 +1,71 @@
+.display{
+    border: none;
+    background: none;
+}
+
+.names{
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    -webkit-transition:font-size 0.2s ,color 0.2s;
+	transition:font-size 0.2s ,color 0.2s;
+}
+.names:hover
+{
+	font-size: 20px;
+	color: black;
+}
+
+#meetupcomponents
+{
+    margin-top: 25px;
+}
+
+#panelradius
+{
+    border-radius: 8px;
+    transition:box-shadow 1s;
+}
+#panelradius:hover
+{
+    box-shadow: 7px 7px 7px 7px lightgrey;
+}
+
+#panelcolor
+{
+    background-color: rgb(72, 72, 207);
+}
+
+.meetupcity
+{
+    font-size: 15px;
+}
+
+.meetupmonth
+{
+    font-size: 15px; 
+}
+
+.meetupcity1
+{  
+    font-size: 15px;  
+}
+
+.bottom_div{
+    height: 170px;
+    width: 530px;
+    background-color: rgb(233, 204, 214);
+    border-radius: 10px;
+}
+
+#input_text{
+    margin-top: 10px;
+    height: 35px;
+    width: 350px;
+    margin-left: 80px;
+    border-radius: 20px;
+}
+
+.rt_color{
+    background-color: rgb(212, 243, 174);
+}
